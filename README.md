@@ -322,12 +322,4 @@ This separation is central to the credibility of the reported strict raw-ML resu
 
 ## License
 
-Add the intended license here before publishing the repository. For academic code sharing, common choices include the MIT License for code and a separate citation note for the paper.
-
-## Citation
-
-If you use this repository or build on this work, please cite the accompanying paper:
-
-```text
-Akel, S., & Özkan, A. AIS-Based Vessel Behavior Prediction for Port Traffic Safety and Collision-Avoidance Early Warning.
-```
+This project is licensed under the MIT License.
