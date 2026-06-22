@@ -323,3 +323,11 @@ This separation is central to the credibility of the reported strict raw-ML resu
 ## License
 
 This project is licensed under the MIT License.
+
+## Citation
+
+If you use this repository or build on this work, please cite the accompanying paper:
+
+```text
+Akel, S., & Özkan, A. AIS-Based Vessel Behavior Prediction for Port Traffic Safety and Collision-Avoidance Early Warning.
+```
