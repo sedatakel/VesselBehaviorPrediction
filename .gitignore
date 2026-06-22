@@ -16,6 +16,7 @@ venv/
 
 # Office temporary files
 ~$*
+Sedat_Akel_AIS_Vessel_Behavior_Prediction_Paper.docx
 
 # Data files are kept locally except for the compressed DS1 sample and its screenshot
 Data/*
