@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Raw and generated datasets (kept locally; some exceed GitHub's size limit)
+Data/*.csv
+Data/*.zip
+ais_ds2_prepared/
+
