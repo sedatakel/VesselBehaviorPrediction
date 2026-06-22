@@ -14,8 +14,8 @@ venv/
 .vscode/
 .idea/
 
-# Raw and generated datasets (kept locally; some exceed GitHub's size limit)
-Data/*.csv
-Data/*.zip
+# Data files are kept locally except for the compressed DS1 sample and its screenshot
+Data/*
+!Data/DS1.csv.zip
+!Data/DS1_Screenshot.png
 ais_ds2_prepared/
-

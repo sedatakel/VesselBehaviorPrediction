@@ -10,4 +10,4 @@ Exploratory data analysis, preprocessing, model training, and evaluation noteboo
 
 ## Data
 
-Raw CSV/ZIP files and generated datasets are intentionally excluded from Git because some files exceed GitHub's file-size limit. Place the required local datasets under `Data/` before running the notebooks. Dataset screenshots are retained in the repository as lightweight references.
+The compressed DS1 dataset (`Data/DS1.csv.zip`) and its screenshot are included in the repository. Other raw and generated datasets are excluded from Git because some files exceed GitHub's file-size limit. Place any additional required datasets under `Data/` before running the notebooks.
